@@ -1,1 +1,1 @@
-• Designed and developed a responsive, Tinder-like web interface for dog profiles using HTML, CSS.
+Designed and developed a responsive, Tinder-like web interface for dog profiles using HTML, CSS.
